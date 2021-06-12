@@ -27,7 +27,7 @@
        
    "teching the children of tomorrow the history of yesterday"
   
-  3.Website Main Menu
+  **3.Website Main Menu**
  
  **4.Page 1**
    
@@ -44,7 +44,8 @@
    Educational, Kisd, Internet, History, Computer, Website, Google, Yahoo, Amazon, Napster, Science.
      
    **4.Format**
-    The website will use the Z format
+  
+  The website will use the Z format
      
      
      
