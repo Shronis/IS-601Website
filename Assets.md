@@ -1,1 +1,8 @@
 ![alt text](https://github.com/Shronis/IS-601Website/blob/main/googlelogo.png "Google Logo")
+![alt text](https://github.com/Shronis/IS-601Website/blob/main/amazonlogo.png "Amazon Logo")
+![alt text](https://github.com/Shronis/IS-601Website/blob/main/Yahoologo.png  "Yahoo Logo")
+![alt text](https://github.com/Shronis/IS-601Website/blob/main/napster%20logo.png "Napster Logo)
+![alt text](https://github.com/Shronis/IS-601Website/blob/main/JeffBezos.jfif "Amazon's Founder Jeff Bezos")
+![alt text](https://github.com/Shronis/IS-601Website/blob/main/Jerryyang%20DavidFIlo.jfif "Yahoo's Founders Jerry Yang and David Filo")
+![alt text](https://github.com/Shronis/IS-601Website/blob/main/seanParker.jfif "Napster's Founder Sean Parker")
+![alt text](https://github.com/Shronis/IS-601Website/blob/main/googlefounders.jfif "Google's Founders Larry Page and Sergey Brin")
