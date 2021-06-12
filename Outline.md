@@ -49,6 +49,7 @@
   
   **5.Page Content**
   [List of assets that might be used](https://github.com/Shronis/IS-601Website/blob/main/Assets.md)
+  
   [Text Content for website](https://github.com/Shronis/IS-601Website/blob/main/Content.md)
      
      
