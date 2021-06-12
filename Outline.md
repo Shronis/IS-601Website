@@ -12,16 +12,20 @@
       videos to help get the point across to them.
    
    **2. Key Words**
-       Educational, Kisd, Internet, History, Computer, Website, Google, Yahoo, Amazon, Napster, Science.
+      
+   Educational, Kisd, Internet, History, Computer, Website, Google, Yahoo, Amazon, Napster, Science.
    
    **3.Website Title** 
-      History of the Internet 
+      
+   History of the Internet 
     
    **4. Page Title**
-       "A Kid's interactive guide to the history of the intnternet"
+       
+   "A Kid's interactive guide to the history of the intnternet"
     
    **5. Hero text** 
-       "teching the children of tomorrow the history of yesterday"
+       
+   "teching the children of tomorrow the history of yesterday"
   
   3.Website Main Menu
  
@@ -29,7 +33,7 @@
    
    **1.Page Title**
     
-    *KidsGuideToInternetHistory.com*
+   *KidsGuideToInternetHistory.com*
     
    **2.Description**
     
