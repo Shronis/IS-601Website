@@ -1,4 +1,5 @@
-##How the internet was Created
+## How the internet was Created
+
 Way back in the 1950s computers were the size of wntire rooms. They were unable to talk to eachother and were very slow comapred to todays computer. 
 In the Year 1957 the USSR launched a satelite into space named Sputnik. America not wanting to fall behind the USSR started the ARPA program to try and catch up. 
 Leonard Kleinrock started using something called queing theory and devloped two new techinques. Deamnd access and Distributive control (have those link to websites about those terms).
