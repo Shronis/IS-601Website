@@ -1,4 +1,4 @@
-###**1.Genereal Info**
+**1.Genereal Info**
   
  **1. Concept of website**
          The website will be focused towards kids explaining to them first an explanation of the creaation of the internet and also a history of how some popular websites got 
@@ -28,8 +28,30 @@
  **4.Page 1**
    
    **1.Page Title**
+    
     *KidsGuideToInternetHistory.com*
     
    **2.Description**
-    The landing page for the website, on top it has buttons that lead to pages for support, FAQ, and a search bar. In the center of the page has the hero message as well as a button to enter the website and at the bottom of the page is quick links to articles within the website
     
+   The landing page for the website, on top it has buttons that lead to pages for support, FAQ, and a search bar. In the center of the page has the hero message as well as a button to enter the website and at the bottom of the page is quick links to articles within the website
+   
+   **3.Key Words**
+    
+   Educational, Kisd, Internet, History, Computer, Website, Google, Yahoo, Amazon, Napster, Science.
+     
+   **4.Format**
+    The website will use the Z format
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
