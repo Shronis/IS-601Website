@@ -48,7 +48,7 @@
   The website will use the Z format
   
   **5.Page Content**
-  
+  [List of assets that might be used](https://github.com/Shronis/IS-601Website/blob/main/Assets.md)
      
      
      
