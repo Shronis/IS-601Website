@@ -37,7 +37,7 @@
     
    **2.Description**
     
-   The landing page for the website, on top it has buttons that lead to pages for support, FAQ, and a search bar. In the center of the page has the hero message as well as a button to enter the website and at the bottom of the page is quick links to articles within the website
+   The landing page for the website, on top it has buttons that lead to pages for support, FAQ, About page, and a search bar. In the center of the page has the hero message as well as a button to enter the website and at the bottom of the page is quick links to articles within the website
    
    **3.Key Words**
     
@@ -51,15 +51,163 @@
   [List of assets that might be used](https://github.com/Shronis/IS-601Website/blob/main/Assets.md)
   
   [Text Content for website](https://github.com/Shronis/IS-601Website/blob/main/Content.md)
+  
+  **Page 2**
+    
+   **Page Title**
+      
+      **KidsGuideToInternetHistory.com/SeletionScreen*
+   
+   **Description**
+   
+   The selection screen for the website where users can slect which story they want to read. In the center third of the screen strethcing across the the lenght of the page there is a brief descrpition for each story, The creation of the internet, Google, Yahoo, Amazon and Napster. At the top there is a button to return to the website home as well as buttons to lead to FAQ, Support, About page and a search bar. 
+   
+   **Key words**
      
+   Educational, Kisd, Internet, History, Computer, Website, Google, Yahoo, Amazon, Napster, Science.
      
+   **4.Format**
+  
+  The website will use the Z format
+  
+  **5.Page Content**
+  [List of assets that might be used](https://github.com/Shronis/IS-601Website/blob/main/Assets.md)
+  
+  [Text Content for website](https://github.com/Shronis/IS-601Website/blob/main/Content.md)  
      
+   **Page 3**
+    
+   **Page Title**
+      
+      **KidsGuideToInternetHistory.com/creationofInternet*
+   
+   **Description**
+   
+   The page starts with text in the top left and then below it to the right is an image relevent to the prevous and then below that to the left is more text and this pattern repeats until the the whole story is given. The text delivered here is about the history behind the creation of the internet, including images that are relevant to the story.At the top there is a button to return to the website home as well as buttons to lead to FAQ, Support, About page and a search bar. At the bottom of the page are links to the other stories as well as links to return to the selection screen.    
+   
+   **Key words**
      
+   Educational, Kids, Internet, History, Computer, Website, Science.
      
+   **4.Format**
+  
+  The website will use the Zig zag format
+  
+  **5.Page Content**
+  [List of assets that might be used](https://github.com/Shronis/IS-601Website/blob/main/Assets.md)
+  
+  [Text Content for website](https://github.com/Shronis/IS-601Website/blob/main/Content.md)  
+   **Sidebar Content**
+      
+   On the sid bar there will be further information on people that are mention in the text like Leonard Kleinrock and Paul Baron, certain devices like IMPs and Sputnik as well as places where major eents took place such as Standford
+   
+   
+   **Page 4**
+    
+   **Page Title**
+      
+      **KidsGuideToInternetHistory.com/google*
+   
+   **Description**
+   
+   The page starts with text in the top left and then below it to the right is an image relevent to the prevous and then below that to the left is more text and this pattern repeats until the the whole story is given. The text delivered here is about the history behind the founding of Google, including images that are relevant to the story.At the top there is a button to return to the website home as well as buttons to lead to FAQ, Support, About page and a search bar. At the bottom of the page are links to the other stories as well as links to return to the selection screen.    
+   
+   **Key words**
      
+   Educational, Kids, Internet, History, Computer, Website, Science, google.
      
+   **4.Format**
+  
+  The website will use the Zig zag format
+  
+  **5.Page Content**
+  [List of assets that might be used](https://github.com/Shronis/IS-601Website/blob/main/Assets.md)
+  
+  [Text Content for website](https://github.com/Shronis/IS-601Website/blob/main/Content.md)  
+   **Sidebar Content**
+      
+   On the sid bar there will be further information on people that are mention in the text like Larry Page and Sergey Brin, as places where major events took place like Wall Street.
      
+ 
+   **Page 5**
+    
+   **Page Title**
+      
+      **KidsGuideToInternetHistory.com/yahoo*
+   
+   **Description**
+   
+   The page starts with text in the top left and then below it to the right is an image relevent to the prevous and then below that to the left is more text and this pattern repeats until the the whole story is given. The text delivered here is about the history behind the founding of Yahoo, including images that are relevant to the story.At the top there is a button to return to the website home as well as buttons to lead to FAQ, Support, About page and a search bar. At the bottom of the page are links to the other stories as well as links to return to the selection screen.    
+   
+   **Key words**
      
+   Educational, Kids, Internet, History, Computer, Website, Science, yahoo.
+     
+   **4.Format**
+  
+  The website will use the Zig zag format
+  
+  **5.Page Content**
+  [List of assets that might be used](https://github.com/Shronis/IS-601Website/blob/main/Assets.md)
+  
+  [Text Content for website](https://github.com/Shronis/IS-601Website/blob/main/Content.md)  
+   **Sidebar Content**
+      
+   On the sid bar there will be further information on people that are mention in the text like Jerry Yang and David Filo, Excite, as places where major events took place like Wall Street, Standford.
+
+   **Page 6**
+    
+   **Page Title**
+      
+      **KidsGuideToInternetHistory.com/Amazon*
+   
+   **Description**
+   
+   The page starts with text in the top left and then below it to the right is an image relevent to the prevous and then below that to the left is more text and this pattern repeats until the the whole story is given. The text delivered here is about the history behind the founding of Amazon, including images that are relevant to the story.At the top there is a button to return to the website home as well as buttons to lead to FAQ, Support, About page and a search bar. At the bottom of the page are links to the other stories as well as links to return to the selection screen.    
+   
+   **Key words**
+     
+   Educational, Kids, Internet, History, Computer, Website, Science, Amazon.
+     
+   **4.Format**
+  
+  The website will use the Zig zag format
+  
+  **5.Page Content**
+  [List of assets that might be used](https://github.com/Shronis/IS-601Website/blob/main/Assets.md)
+  
+  [Text Content for website](https://github.com/Shronis/IS-601Website/blob/main/Content.md)  
+   **Sidebar Content**
+      
+   On the sid bar there will be further information on people that are mention in the text like Jeff Bezos, as places where major events took place like Wall Street, Silicone Valley
+   
+   
+   **Page 7**
+    
+   **Page Title**
+      
+      **KidsGuideToInternetHistory.com/Napster*
+   
+   **Description**
+   
+   The page starts with text in the top left and then below it to the right is an image relevent to the prevous and then below that to the left is more text and this pattern repeats until the the whole story is given. The text delivered here is about the history behind the founding of Napster, including images that are relevant to the story.At the top there is a button to return to the website home as well as buttons to lead to FAQ, Support, About page and a search bar. At the bottom of the page are links to the other stories as well as links to return to the selection screen.    
+   
+   **Key words**
+     
+   Educational, Kids, Internet, History, Computer, Website, Science, music, social media, Napster.
+     
+   **4.Format**
+  
+  The website will use the Zig zag format
+  
+  **5.Page Content**
+  [List of assets that might be used](https://github.com/Shronis/IS-601Website/blob/main/Assets.md)
+  
+  [Text Content for website](https://github.com/Shronis/IS-601Website/blob/main/Content.md)  
+   **Sidebar Content**
+      
+   On the sid bar there will be further information on people that are mention in the text like Sean Parker,Metalica, and places where major events took place like Silicone Valley.
+     .
      
      
      
